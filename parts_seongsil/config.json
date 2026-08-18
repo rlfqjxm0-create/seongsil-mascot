@@ -1,0 +1,126 @@
+{
+ "name": "성실이",
+ "scale": 0.396,
+ "screen_quad": [
+  [
+   196,
+   839
+  ],
+  [
+   466,
+   836
+  ],
+  [
+   457,
+   910
+  ],
+  [
+   169,
+   910
+  ]
+ ],
+ "blink": null,
+ "trail_color": "#c99a1e",
+ "hard_alpha": true,
+ "timer": {
+  "enabled": true,
+  "idle_sec": 15
+ },
+ "fun": true,
+ "nose": [
+  492,
+  394
+ ],
+ "arms_over_head": false,
+ "pen_grain": false,
+ "todo": true,
+ "talk": [
+  "오늘도 한 칸씩.",
+  "꾸준한 게 제일 빨라요.",
+  "조금씩, 매일.",
+  "어제보다 한 줄 더.",
+  "손이 기억할 거예요.",
+  "쉬는 것도 하는 일이에요.",
+  "여기까지 온 것도 대단해요.",
+  "안 되면 내일 또 하면 돼요.",
+  "오늘 몫 잘 하고 있어요.",
+  "성실한 사람이 이겨요."
+ ],
+ "gestures": true,
+ "stretch_talk": [
+  "잠깐 펴요.",
+  "어깨 한 번.",
+  "허리도요."
+ ],
+ "stretch_done_talk": [
+  "좋아요.",
+  "됐어요.",
+  "잘했어요."
+ ],
+ "stretch_hint_suffix": " — 눌러줘",
+ "remember_pos": true,
+ "history": true,
+ "deadline_on": true,
+ "goal_cheer": true,
+ "soft_overlay": true,
+ "pen_monitor_pick": false,
+ "gestures_plus": true,
+ "stickers": true,
+ "youtube": true,
+ "card": {
+  "fill": "#f0c03c",
+  "border": "#f8dd94",
+  "track": "#fdf0cc",
+  "text": "#6b5613",
+  "sub": "#b09a53",
+  "line": "#f3e0a8",
+  "panel": "#fffdf5",
+  "bg": "#fdf7e6",
+  "soft": "#fcf2d6",
+  "border2": "#e8c96a"
+ },
+ "titles": [
+  [
+   1,
+   "첫 획"
+  ],
+  [
+   3,
+   "낙서 시작"
+  ],
+  [
+   5,
+   "선 긋는 중"
+  ],
+  [
+   8,
+   "지우개 단골"
+  ],
+  [
+   12,
+   "밑그림 연습"
+  ],
+  [
+   17,
+   "하루 한 장"
+  ],
+  [
+   23,
+   "꾸준한 손"
+  ],
+  [
+   30,
+   "성실 그 자체"
+  ],
+  [
+   40,
+   "매일의 사람"
+  ]
+ ],
+ "level": true,
+ "update_dot": true,
+ "typing_arm": true,
+ "card_top": 26,
+ "reset_menu": false,
+ "char_lift": 95
+}
