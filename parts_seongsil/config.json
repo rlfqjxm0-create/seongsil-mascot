@@ -3,19 +3,19 @@
  "scale": 0.3,
  "screen_quad": [
   [
-   196,
-   839
+   194,
+   838
   ],
   [
    466,
-   836
+   835
   ],
   [
    457,
    910
   ],
   [
-   169,
+   167,
    910
   ]
  ],
@@ -123,7 +123,7 @@
  "typing_arm": true,
  "card_top": 24,
  "reset_menu": false,
- "char_lift": 34,
+ "char_lift": 46,
  "back_motion": "flap",
  "back_amp": 0.22,
  "back_period": 1.0,
