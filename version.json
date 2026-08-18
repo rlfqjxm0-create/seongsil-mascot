@@ -1,13 +1,13 @@
 {
- "version": 1787057151,
+ "version": 1787059305,
  "files": {
-  "mascot.py": "5b5330aca6db42a3d254ab80740a491607d29036a5cba2037d63c28dcd154697",
+  "mascot.py": "de855ae3cdd90d359c4c4129cb7e6b801a816af1281703e234ebd58c6dabfa33",
   "parts_seongsil/arm_key.png": "d23786289882ce0869bcd9f150a83f56926281c5a33138c1f9067407fc5f648c",
   "parts_seongsil/arm_pen.png": "9d81eab31f2f703ce1c79041f1fcc47e79e3c7882c1c100a0d65c1c5b369eb98",
   "parts_seongsil/arm_right.png": "ea4c1a2c1d9171356d5bf009c2917947cc40b912babcaaca87b7d9833de21119",
   "parts_seongsil/arm_right_typing.png": "d23786289882ce0869bcd9f150a83f56926281c5a33138c1f9067407fc5f648c",
   "parts_seongsil/body_open.png": "5c76e20b4d7e511aa3439d99bc490006c3aba89191fb0f64eb27cb553b0d52e6",
-  "parts_seongsil/config.json": "f3e3cc912c49f3c0e474f61edbdeee36a564ffb11925acf9d9e502d3fe558d01",
+  "parts_seongsil/config.json": "ec4917b3c465ace56def165706bd1185bf02ad4aa1bc396e089cdcdc492400ea",
   "parts_seongsil/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_seongsil/desk.png": "e8656ac31715be9aee4b14601bc1c59de1ed60bcf24600349f5490beaae07cc9",
   "parts_seongsil/eyes_closed.png": "8bae382b3c03e35583657c8bc01be180500931c1c5ebde28bc9c9037bcc10b82",
@@ -399,6 +399,12 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "b24fce8125c2234285ae5f8dfbb612eb879c8897476d7fbfcc04856057e42e76"
  },
- "notes": [],
- "silent": true
+ "notes": [
+  "패왕·성실이가 홈에 입주했어요",
+  "뽀모도로 타이머가 생겼어요 — 우클릭 > 뽀모도로. 25분 집중과 5분 휴식이 네 번 이어지고, 마지막엔 15분 길게 쉽니다",
+  "한 사이클이 끝나면 말풍선에 '다시 시작' 단추가 떠요. 누르면 처음부터 다시 돕니다",
+  "할 일 말풍선을 하나씩 따로 옮길 수 있어요. 첫 번째를 끌면 전체가 같이 움직이고, 우클릭으로 꼬리 방향과 크기도 고를 수 있습니다",
+  "마감 말풍선도 우클릭으로 지울 수 있어요",
+  "BGM 메뉴가 생겼어요 — 유튜브 노래와 환경음(빗소리·모닥불 같은 것)을 겹쳐 틀 수 있습니다"
+ ]
 }
