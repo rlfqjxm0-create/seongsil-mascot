@@ -1,6 +1,6 @@
 {
  "name": "성실이",
- "scale": 0.396,
+ "scale": 0.3,
  "screen_quad": [
   [
    196,
@@ -75,9 +75,10 @@
   "sub": "#b09a53",
   "line": "#f3e0a8",
   "panel": "#fffdf5",
-  "bg": "#fdf7e6",
+  "bg": "#ffffff",
   "soft": "#fcf2d6",
-  "border2": "#e8c96a"
+  "border2": "#e8c96a",
+  "deco": "mouse"
  },
  "titles": [
   [
@@ -120,7 +121,7 @@
  "level": true,
  "update_dot": true,
  "typing_arm": true,
- "card_top": 26,
+ "card_top": 40,
  "reset_menu": false,
- "char_lift": 95
+ "char_lift": 0
 }
