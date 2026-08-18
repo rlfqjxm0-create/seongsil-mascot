@@ -201,5 +201,6 @@
  },
  "defaults": {
   "sound_pack": "aura pla"
- }
+ },
+ "seat_head_bob": false
 }
