@@ -1,13 +1,13 @@
 {
- "version": 1787171527,
+ "version": 1787172477,
  "files": {
-  "mascot.py": "248ca93288f5ca1bd90eaaef919eed951f88fde618921f9aae399491d781ee1d",
+  "mascot.py": "94e1037ddfa9b3f9c701ecb081481074e961e5436bb354d3ecba1d29fb9793fe",
   "parts_seongsil/arm_key.png": "28a5377013cd2411f6e1fedcb1edad5e8344e25190de0a998de99e0c29ed1d3f",
   "parts_seongsil/arm_pen.png": "0d8814c53c4076fe231d72110b06c60fc16d4beffc196931eca05e442943a8e6",
   "parts_seongsil/arm_right.png": "24d9f83e9a5ceaaa0540199cce74af15c173af8f55e418ccc45d50dae875f843",
   "parts_seongsil/arm_right_typing.png": "28a5377013cd2411f6e1fedcb1edad5e8344e25190de0a998de99e0c29ed1d3f",
   "parts_seongsil/body_open.png": "041f07bd5c816f58ef6acfda5998184b85248b372041251b2a3a370c5ab10d92",
-  "parts_seongsil/config.json": "c7b44085ee7c0cdbe8c81bb5cce8e787b7e14f8d221c5865e661b74677a2dab5",
+  "parts_seongsil/config.json": "96d9e2773e3b3e8a06edb9fe9b319d973ecb6415a7403b4e1dcfe996d08ef9ef",
   "parts_seongsil/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_seongsil/desk.png": "6e6279bcf8828495ced2ee7e6fb23df142f03a56910a8eb380f19cbe127066a0",
   "parts_seongsil/eyes_closed.png": "cebdddbba9ab1df514487d0526c7d44173bd694c511b8f27e9fc88fd195bce05",
