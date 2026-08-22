@@ -1,13 +1,13 @@
 {
- "version": 1787397769,
+ "version": 1787399523,
  "files": {
-  "mascot.py": "5a6d164754a52bca37572f7c31cbb5e668fe6224ea6641494cbf0eac7733ef1b",
+  "mascot.py": "0464d63edf9f4e51430ddf5e15fa40c86c47b07d00c63320445cf54575fbb2af",
   "parts_seongsil/arm_key.png": "28a5377013cd2411f6e1fedcb1edad5e8344e25190de0a998de99e0c29ed1d3f",
   "parts_seongsil/arm_pen.png": "0d8814c53c4076fe231d72110b06c60fc16d4beffc196931eca05e442943a8e6",
   "parts_seongsil/arm_right.png": "24d9f83e9a5ceaaa0540199cce74af15c173af8f55e418ccc45d50dae875f843",
   "parts_seongsil/arm_right_typing.png": "28a5377013cd2411f6e1fedcb1edad5e8344e25190de0a998de99e0c29ed1d3f",
   "parts_seongsil/body_open.png": "041f07bd5c816f58ef6acfda5998184b85248b372041251b2a3a370c5ab10d92",
-  "parts_seongsil/config.json": "cb02432c2151c7c4f8a05ef22037199f0a5bf07d324abb53ddc7b07509306c3a",
+  "parts_seongsil/config.json": "59011f03f5bd7a51637bd01188274afbfccdd72be38d5f2041fec767e1748c94",
   "parts_seongsil/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_seongsil/desk.png": "6e6279bcf8828495ced2ee7e6fb23df142f03a56910a8eb380f19cbe127066a0",
   "parts_seongsil/eyes_closed.png": "cebdddbba9ab1df514487d0526c7d44173bd694c511b8f27e9fc88fd195bce05",
@@ -477,8 +477,9 @@
   "youtube_player.py": "8fd216056f4f61075a8646a791389b05ad0082c40864d84b16773c2302c74f2d"
  },
  "notes": [
-  "**사가님이 소품 7종을 추가해 줬어요!** 미쿠 · 생선 · 계란 · 블록슈 불꽃 · 츠나 불꽃 · 당근토끼 · 방울고양이. 다들 사가님께 감사의 채찍질을 해주세요.",
-  "**미쿠와 불꽃은 여러 조각이 따로 움직입니다.** 미쿠는 양갈래가 흔들리고 파를 든 손이 신나게 움직여요. 불꽃은 밑동을 붙박이로 두고, 겹쳐 놓은 안쪽 불꽃마다 박자를 어긋내 타오르듯 넘실거립니다",
-  "소품은 켤 때마다 하나가 무작위로 나옵니다. 켜 둔 채로 바꾸고 싶으면 **우클릭 → 소품 새로고침**을 누르세요"
+  "**캐릭터 움직임이 부드러워졌습니다.** 커서를 캐릭터 곁에 두거나 말풍선·연출이 떠 있는 동안에는 초당 60번 그려요 (전에는 30번). 숨쉬기·눈동자·팔이 눈에 띄게 매끄럽습니다",
+  "**가만히 바라볼 때 끊기던 것을 고쳤습니다.** 키보드·마우스를 5초만 안 건드려도 초당 15번으로 떨어졌는데, 구경하는 순간이 딱 그 상태였어요. 이제 30초는 지나야 낮춥니다",
+  "**양갈래·날개 흔들림이 두 배 촘촘해졌습니다** (사가·기뽀·패왕·햄북이·락스·제리·성실이). 락스는 초당 5장이 10장으로 늘었어요",
+  "**늘 빠르게 그리지는 않습니다.** 보고 있지 않을 때는 예전처럼 그려서 컴퓨터에 부담을 안 줘요. 늘어나는 메모리는 캐릭터당 1MB 안쪽입니다"
  ]
 }
