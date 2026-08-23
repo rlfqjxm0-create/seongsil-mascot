@@ -1,13 +1,18 @@
 {
- "version": 1787502123,
+ "version": 1787510946,
  "files": {
-  "mascot.py": "fbdf8e3b21e2e769672acc47f67dbba3222fd2cafeac680900afe954c577a708",
+  "mascot.py": "1ebc3f40211c242fa74bdde44d1cff3226dd642e0e392e90acee45a059fb12aa",
   "parts_seongsil/arm_key.png": "28a5377013cd2411f6e1fedcb1edad5e8344e25190de0a998de99e0c29ed1d3f",
   "parts_seongsil/arm_pen.png": "0d8814c53c4076fe231d72110b06c60fc16d4beffc196931eca05e442943a8e6",
   "parts_seongsil/arm_right.png": "24d9f83e9a5ceaaa0540199cce74af15c173af8f55e418ccc45d50dae875f843",
   "parts_seongsil/arm_right_typing.png": "28a5377013cd2411f6e1fedcb1edad5e8344e25190de0a998de99e0c29ed1d3f",
   "parts_seongsil/body_open.png": "041f07bd5c816f58ef6acfda5998184b85248b372041251b2a3a370c5ab10d92",
-  "parts_seongsil/config.json": "ce6a772f5a7e89435a95ad4c12e21c2c0048ca73e33deadc0f88c3ad13941511",
+  "parts_seongsil/chip_food.png": "420182c25bd0673a57be7e9532da4c6fff94fd768744833b96852ef1e77ed2c1",
+  "parts_seongsil/chip_game.png": "a1976111e87928eb7af422e1b911023a2b890925f85749888baa5c74e969b36c",
+  "parts_seongsil/chip_kernel.png": "bb58ea688ae34da877aaa8f3daaa68e669e00997be2b28d78c4408c6e66c26e7",
+  "parts_seongsil/chip_meta.json": "23214acfd87a7ae8ee65a7edf781386a54f29283c16fae815f47c8fc8f55413f",
+  "parts_seongsil/chip_movie.png": "43bfa1493af45a8adc05b455acda466b56cad4394229cd8a706ae5cde09ed642",
+  "parts_seongsil/config.json": "e2edd06c495174b31663ecac896de9402c6d0ea5d63829553f9a0aabc6dc0118",
   "parts_seongsil/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_seongsil/desk.png": "6e6279bcf8828495ced2ee7e6fb23df142f03a56910a8eb380f19cbe127066a0",
   "parts_seongsil/eyes_closed.png": "cebdddbba9ab1df514487d0526c7d44173bd694c511b8f27e9fc88fd195bce05",
@@ -476,6 +481,8 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "958da4bd526d867ec8250db02da4729ceb168664c04419091fe6ebf040122f80"
  },
- "notes": [],
- "silent": true
+ "notes": [
+  "새 기능 '상태 칩' — 캐릭터 우클릭 → 상태 칩에서 지금 무엇을 하는 중인지 고를 수 있어요. 자리비움 · 게임 중 · 영화 감상 중 · 밥 먹는 중을 고르면 캐릭터가 그 행동을 하고, 홈의 내 칸에도 표시돼요. 원래대로 돌리려면 '온라인'을 고르면 돼요.",
+  "소품이 팔에 가려지지 않게 위로 올렸어요. 여러 겹으로 된 소품(불꽃 같은 것)도 안쪽 겹까지 제대로 나와요."
+ ]
 }
