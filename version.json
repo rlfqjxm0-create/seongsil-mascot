@@ -1,7 +1,7 @@
 {
- "version": 1788267929,
+ "version": 1788274931,
  "files": {
-  "mascot.py": "d02132c249a1e15d90e59874c0ac189108ae598dcd7c568e30b7fe6fd4a2d7c3",
+  "mascot.py": "3a840eca79305ba316b51c43e480ee507e13d4434fbb4d48d4217c271c83709e",
   "parts_seongsil/arm_key.png": "ae420660c069eaa2ca30893a356a13a9642d0d0b2668a3c7db353be32a6796a4",
   "parts_seongsil/arm_pen.png": "9a8018220315cdcf11c76b83609453c30bfb5f741f2068ad731428aee5bad374",
   "parts_seongsil/arm_right.png": "bbbef77a8d8613558663b9094c7e7c9d9a092ec8517e0e666fabb50cbc725937",
@@ -529,7 +529,6 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "0b2e0560b1bf72e55b8ab8623e3083a401842cdafe905a5a0186012617aee9bb"
  },
- "notes": [
-  "하루에 보낼 수 있는 편지가 10통에서 30통으로 늘었어요!"
- ]
+ "notes": [],
+ "silent": true
 }
