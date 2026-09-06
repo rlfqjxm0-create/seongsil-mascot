@@ -1,665 +1,667 @@
 {
-  "name": "성실이",
-  "scale": 0.3,
-  "screen_quad": [
-    [
-      194,
-      838
-    ],
-    [
-      466,
-      835
-    ],
-    [
-      457,
-      910
-    ],
-    [
-      167,
-      910
-    ]
+ "name": "성실이",
+ "scale": 0.3,
+ "screen_quad": [
+  [
+   194,
+   838
   ],
-  "blink": null,
-  "trail_color": "#c99a1e",
-  "hard_alpha": true,
-  "smooth_body": true,
-  "timer": {
-    "enabled": true,
-    "idle_sec": 15
-  },
-  "fun": true,
-  "nose": [
-    492,
-    394
+  [
+   466,
+   835
   ],
-  "arms_over_head": false,
-  "pen_grain": false,
-  "todo": true,
-  "talk": [
-    "오늘도 한 칸씩.",
-    "꾸준한 게 제일 빨라요.",
-    "조금씩, 매일.",
-    "어제보다 한 줄 더.",
-    "손이 기억할 거예요.",
-    "쉬는 것도 하는 일이에요.",
-    "여기까지 온 것도 대단해요.",
-    "안 되면 내일 또 하면 돼요.",
-    "오늘 몫 잘 하고 있어요.",
-    "성실한 사람이 이겨요."
+  [
+   457,
+   910
   ],
-  "gestures": true,
-  "stretch_talk": [
-    "잠깐 펴요.",
-    "어깨 한 번.",
-    "허리도요."
+  [
+   167,
+   910
+  ]
+ ],
+ "blink": null,
+ "trail_color": "#c99a1e",
+ "hard_alpha": true,
+ "smooth_body": true,
+ "timer": {
+  "enabled": true,
+  "idle_sec": 15
+ },
+ "fun": true,
+ "nose": [
+  492,
+  394
+ ],
+ "arms_over_head": false,
+ "pen_grain": false,
+ "todo": true,
+ "talk": [
+  "오늘도 한 칸씩.",
+  "꾸준한 게 제일 빨라요.",
+  "조금씩, 매일.",
+  "어제보다 한 줄 더.",
+  "손이 기억할 거예요.",
+  "쉬는 것도 하는 일이에요.",
+  "여기까지 온 것도 대단해요.",
+  "안 되면 내일 또 하면 돼요.",
+  "오늘 몫 잘 하고 있어요.",
+  "성실한 사람이 이겨요."
+ ],
+ "gestures": true,
+ "stretch_talk": [
+  "잠깐 펴요.",
+  "어깨 한 번.",
+  "허리도요."
+ ],
+ "stretch_done_talk": [
+  "좋아요.",
+  "됐어요.",
+  "잘했어요."
+ ],
+ "stretch_hint_suffix": " — 눌러줘",
+ "remember_pos": true,
+ "history": true,
+ "deadline_on": true,
+ "goal_cheer": true,
+ "soft_overlay": true,
+ "pen_monitor_pick": false,
+ "gestures_plus": true,
+ "stickers": true,
+ "youtube": true,
+ "card": {
+  "fill": "#f0c03c",
+  "border": "#f8dd94",
+  "track": "#fdf0cc",
+  "text": "#6b5613",
+  "sub": "#b09a53",
+  "line": "#f3e0a8",
+  "panel": "#fffdf5",
+  "bg": "#ffffff",
+  "soft": "#fcf2d6",
+  "border2": "#e8c96a",
+  "deco": "mouse"
+ },
+ "titles": [
+  [
+   1,
+   "첫 획"
   ],
-  "stretch_done_talk": [
-    "좋아요.",
-    "됐어요.",
-    "잘했어요."
+  [
+   3,
+   "낙서 시작"
   ],
-  "stretch_hint_suffix": " — 눌러줘",
-  "remember_pos": true,
-  "history": true,
-  "deadline_on": true,
-  "goal_cheer": true,
-  "soft_overlay": true,
-  "pen_monitor_pick": false,
-  "gestures_plus": true,
-  "stickers": true,
-  "youtube": true,
-  "card": {
-    "fill": "#f0c03c",
-    "border": "#f8dd94",
-    "track": "#fdf0cc",
-    "text": "#6b5613",
-    "sub": "#b09a53",
-    "line": "#f3e0a8",
-    "panel": "#fffdf5",
-    "bg": "#ffffff",
-    "soft": "#fcf2d6",
-    "border2": "#e8c96a",
-    "deco": "mouse"
-  },
-  "titles": [
-    [
-      1,
-      "첫 획"
-    ],
-    [
-      3,
-      "낙서 시작"
-    ],
-    [
-      5,
-      "선 긋는 중"
-    ],
-    [
-      8,
-      "지우개 단골"
-    ],
-    [
-      12,
-      "밑그림 연습"
-    ],
-    [
-      17,
-      "하루 한 장"
-    ],
-    [
-      23,
-      "꾸준한 손"
-    ],
-    [
-      30,
-      "성실 그 자체"
-    ],
-    [
-      40,
-      "매일의 사람"
-    ]
+  [
+   5,
+   "선 긋는 중"
   ],
-  "level": true,
-  "update_dot": true,
-  "typing_arm": true,
-  "card_top": 24,
-  "reset_menu": false,
-  "char_lift": 46,
-  "back_motion": "flap",
-  "back_amp": 0.22,
-  "back_period": 1.0,
-  "records": true,
-  "back_jitter": 0.5,
-  "slime": {
-    "kinds": {
-      "말랑이": {
-        "tint": 0.45,
-        "size": 1.0,
-        "thick": 0.0,
-        "stiff": 0.0,
-        "reach": 2.8,
-        "vol": 0.32
-      },
-      "버터바": {
-        "shape": "bar",
-        "label": "butter",
-        "bar_w": 1.5,
-        "bar_h": 1.25,
-        "bar_edge": 6.0,
-        "tint": 0.52,
-        "shade": 0.0,
-        "size": 1.0,
-        "thick": 1.0,
-        "stiff": 0.6,
-        "reach": 2.0,
-        "vol": 1.0,
-        "pitch": 0.82
-      },
-      "치즈": {
-        "shape": "bar",
-        "label": "cheese",
-        "holes": 7,
-        "bar_w": 0.95,
-        "bar_h": 1.45,
-        "bar_edge": 4.0,
-        "color": "#f5e09a",
-        "size": 0.95,
-        "thick": 0.55,
-        "stiff": 0.3,
-        "vol": 1.0
-      },
-      "망고스틴": {
-        "label": "mangosteen",
-        "color": "#4a1a3f",
-        "size": 0.92,
-        "thick": 1.0,
-        "stiff": 0.55,
-        "reach": 1.9,
-        "vol": 1.15,
-        "pitch": 0.72
-      },
-      "푸딩": {
-        "label": "pudding",
-        "shape": "cup",
-        "cup_top": 0.66,
-        "bar_w": 1.06,
-        "bar_h": 1.3,
-        "bar_edge": 4.2,
-        "color": "#f6d79b",
-        "size": 0.98,
-        "thick": 0.25,
-        "stiff": 0.4,
-        "reach": 2.4,
-        "vol": 1.0,
-        "pitch": 0.95
-      }
-    }
-  },
-  "back_hide_on_prop": false,
-  "lv_floor": {
-    "secs": 39600,
-    "until": "2026-08-24"
-  },
-  "defaults": {
-    "sound_pack": "aura pla"
-  },
-  "seat_head_bob": false,
-  "wgame": true,
-  "ctile": true,
-  "game_talk": [
-    "잘했어요. 한 칸씩 했네요.",
-    "꾸준한 게 제일 빨라요.",
-    "어제보다 한 줄 더 했어요.",
-    "손이 기억할 거예요.",
-    "차곡차곡 잘 지웠어요.",
-    "오늘도 한 판 마쳤어요.",
-    "조금씩, 매일."
+  [
+   8,
+   "지우개 단골"
   ],
-  "game_talk_win": [
-    "전부 지웠어요! 정말 대단해요.",
-    "한 장도 안 남았어요.",
-    "이런 날도 있네요."
+  [
+   12,
+   "밑그림 연습"
   ],
-  "g2_talk": {
-    "start": [
-      "오늘도 한 칸씩.",
-      "천천히 시작해요.",
-      "한 판, 꾸준히 가요.",
-      "조금씩, 매일."
-    ],
-    "move_none": [
-      "그쪽은 안 밀려요.",
-      "괜찮아요, 다시 해요.",
-      "한 번 쉬어 가요.",
-      "실수도 한 칸이에요."
-    ],
-    "big": [
-      "한 칸 커졌네요.",
-      "차곡차곡 잘 쌓았어요.",
-      "그 수 좋았어요.",
-      "꾸준히 잘 하고 있어요."
-    ],
-    "combo": [
-      "한 번에 세 칸이요.",
-      "차곡차곡 세 번이나요.",
-      "쌓은 게 터졌네요.",
-      "꾸준함이 보여요."
-    ],
-    "top": [
-      "최고 기록이에요.",
-      "어제보다 한 줄 더 했어요.",
-      "여기까지 온 것도 대단해요.",
-      "손이 기억할 거예요."
-    ],
-    "tight": [
-      "자리가 얼마 안 남았어요.",
-      "한 칸씩 침착히요.",
-      "천천히 봐도 돼요.",
-      "급하면 무너져요."
-    ],
-    "idle": [
-      "천천히 생각해요.",
-      "쉬는 것도 하는 일이에요.",
-      "기다릴게요.",
-      "조금씩, 매일이면 돼요."
-    ],
-    "near": [
-      "1024까지 쌓았네요.",
-      "마지막 한 칸이에요.",
-      "여기까지 꾸준했어요.",
-      "조금만 더 하면 돼요."
-    ],
-    "win": [
-      "2048이에요! 해냈어요.",
-      "한 칸씩 쌓은 결과예요.",
-      "성실한 사람이 이겨요.",
-      "정말 잘하셨어요."
-    ],
-    "over": [
-      "여기까지 잘했어요.",
-      "안 되면 내일 또 하면 돼요.",
-      "오늘 몫은 다 했어요.",
-      "차곡차곡 잘 쌓았어요."
-    ]
-  },
-  "g2048": true,
-  "kkodle": true,
-  "prop_motion": {
-    "미쿠": {
-      "prop": {
-        "motion": "sway",
-        "amp": 2.4,
-        "period": 3.1,
-        "jitter": 0.18,
-        "pivot": [
-          0.5,
-          0.08
-        ],
-        "steps": 24,
-        "phase": 0.31
-      },
-      "prop_bit2": {
-        "motion": "sway",
-        "amp": 4.6,
-        "period": 4.3,
-        "jitter": 0.22,
-        "pivot": [
-          0.5,
-          0.06
-        ],
-        "steps": 28,
-        "phase": 0.0
-      },
-      "prop_bit4": {
-        "motion": "sway",
-        "amp": 15.0,
-        "period": 1.5,
-        "jitter": 0.1,
-        "pivot": [
-          0.16,
-          0.14
-        ],
-        "steps": 32,
-        "phase": 0.63
-      }
-    },
-    "블록슈불꽃": {
-      "prop": {
-        "motion": "flame",
-        "amp": 0.1,
-        "period": 0.78,
-        "jitter": 0.3,
-        "steps": 16,
-        "phase": 0.0
-      },
-      "prop_bit2": {
-        "motion": "flame",
-        "amp": 0.13,
-        "period": 0.62,
-        "jitter": 0.3,
-        "steps": 16,
-        "phase": 0.37
-      },
-      "prop_bit3": {
-        "motion": "flame",
-        "amp": 0.17,
-        "period": 0.5,
-        "jitter": 0.32,
-        "steps": 16,
-        "phase": 0.66
-      },
-      "prop_bit4": {
-        "motion": "flame",
-        "amp": 0.21,
-        "period": 0.42,
-        "jitter": 0.35,
-        "steps": 16,
-        "phase": 0.13
-      },
-      "prop_bit5": {
-        "motion": "pulse",
-        "amp": 0.18,
-        "period": 1.7,
-        "jitter": 0.25,
-        "steps": 14,
-        "phase": 0.5
-      }
-    },
-    "츠나불꽃": {
-      "prop": {
-        "motion": "flame",
-        "amp": 0.09,
-        "period": 0.8,
-        "jitter": 0.3,
-        "steps": 16,
-        "phase": 0.0
-      },
-      "prop_bit2": {
-        "motion": "flame",
-        "amp": 0.15,
-        "period": 0.6,
-        "jitter": 0.32,
-        "steps": 16,
-        "phase": 0.41
-      },
-      "prop_bit3": {
-        "motion": "flame",
-        "amp": 0.2,
-        "period": 0.46,
-        "jitter": 0.35,
-        "steps": 16,
-        "phase": 0.72
-      }
-    },
-    "덤보": {
-      "prop": {
-        "motion": "sway",
-        "amp": 29.5,
-        "period": 1.3,
-        "jitter": 0.12,
-        "steps": 24,
-        "phase": 0.9,
-        "pivot": [
-          0.46,
-          1.0
-        ]
-      }
-    },
-    "옹이": {
-      "prop_bit3": {
-        "motion": "sway",
-        "amp": 4.0,
-        "period": 1.8,
-        "jitter": 0.12,
-        "steps": 24,
-        "phase": 0.8,
-        "pivot": [
-          0.88,
-          0.11
-        ]
-      }
-    },
-    "곰돌이": {
-      "prop": {
-        "motion": "sway",
-        "amp": 24.0,
-        "period": 1.4,
-        "jitter": 0.12,
-        "steps": 24,
-        "phase": 0.6,
-        "pivot": [
-          0.26,
-          0.87
-        ]
-      },
-      "prop_bit3": {
-        "motion": "lick",
-        "amp": 0.45,
-        "period": 2.2,
-        "jitter": 0.25,
-        "steps": 24,
-        "phase": 0.8,
-        "squash": 0.18
-      },
-      "prop_bit6": {
-        "motion": "sway",
-        "amp": 1.5,
-        "period": 1.0,
-        "jitter": 0.12,
-        "steps": 24,
-        "phase": 0.95,
-        "pivot": [
-          0.87,
-          0.05
-        ]
-      }
-    }
-  },
-  "back_steps": 24,
-  "chips": true,
-  "prop_over_arms": true,
-  "prop_extra": {
-    "propx1": {
-      "pos": [
-        499,
-        -544
-      ],
-      "size": [
-        91,
-        169
-      ],
-      "label": "덤보",
-      "pname": "꼬리",
-      "gname": "덤보",
-      "over": 1,
-      "bits": [
-        "propx1_bit2",
-        "propx1_bit3",
-        "propx1_bit4"
-      ]
-    },
-    "propx1_bit2": {
-      "pos": [
-        303,
-        -435
-      ],
-      "size": [
-        472,
-        484
-      ],
-      "label": "덤보",
-      "pname": "몸통"
-    },
-    "propx1_bit3": {
-      "pos": [
-        284,
-        -437
-      ],
-      "size": [
-        495,
-        314
-      ],
-      "label": "덤보",
-      "pname": "머리"
-    },
-    "propx1_bit4": {
-      "pos": [
-        413,
-        -297
-      ],
-      "size": [
-        255,
-        105
-      ],
-      "label": "덤보",
-      "pname": "눈깜빡"
-    },
-    "propx2": {
-      "pos": [
-        643,
-        -588
-      ],
-      "size": [
-        161,
-        222
-      ],
-      "label": "곰돌이",
-      "pname": "꼬리",
-      "gname": "곰돌이",
-      "over": 1,
-      "bits": [
-        "propx2_bit2",
-        "propx2_bit3",
-        "propx2_bit4",
-        "propx2_bit5",
-        "propx2_bit6"
-      ]
-    },
-    "propx2_bit2": {
-      "pos": [
-        300,
-        -368
-      ],
-      "size": [
-        453,
-        350
-      ],
-      "label": "곰돌이",
-      "pname": "몸통"
-    },
-    "propx2_bit3": {
-      "pos": [
-        469,
-        -167
-      ],
-      "size": [
-        85,
-        78
-      ],
-      "label": "곰돌이",
-      "pname": "혓바닥"
-    },
-    "propx2_bit4": {
-      "pos": [
-        354,
-        -496
-      ],
-      "size": [
-        390,
-        346
-      ],
-      "label": "곰돌이",
-      "pname": "머리"
-    },
-    "propx2_bit5": {
-      "pos": [
-        405,
-        -365
-      ],
-      "size": [
-        224,
-        133
-      ],
-      "label": "곰돌이",
-      "pname": "눈깜빡"
-    },
-    "propx2_bit6": {
-      "pos": [
-        304,
-        -426
-      ],
-      "size": [
-        107,
-        179
-      ],
-      "label": "곰돌이",
-      "pname": "귀쫑긋"
-    },
-    "propx3": {
-      "pos": [
-        278,
-        -561
-      ],
-      "size": [
-        505,
-        405
-      ],
-      "label": "옹이",
-      "pname": "몸체",
-      "gname": "옹이",
-      "over": 1,
-      "bits": [
-        "propx3_bit2",
-        "propx3_bit3"
-      ]
-    },
-    "propx3_bit2": {
-      "pos": [
-        393,
-        -459
-      ],
-      "size": [
-        198,
-        100
-      ],
-      "label": "옹이",
-      "pname": "눈깜빡"
-    },
-    "propx3_bit3": {
-      "pos": [
-        391,
-        -293
-      ],
-      "size": [
-        379,
-        215
-      ],
-      "label": "옹이",
-      "pname": "꼬리"
-    }
-  },
-  "prop_tune": {
-    "덤보": [
-      -2.0,
-      453.3,
-      0.58
-    ],
-    "옹이": [
-      -1.0,
-      490.0,
-      0.68
-    ],
-    "곰돌이": {
-      "all": [
-        -2.0,
-        473.3,
-        0.55
-      ],
-      "bit3": [
-        0.0,
-        -9.0,
-        1.0
-      ]
-    }
+  [
+   17,
+   "하루 한 장"
+  ],
+  [
+   23,
+   "꾸준한 손"
+  ],
+  [
+   30,
+   "성실 그 자체"
+  ],
+  [
+   40,
+   "매일의 사람"
+  ]
+ ],
+ "level": true,
+ "update_dot": true,
+ "typing_arm": true,
+ "card_top": 24,
+ "reset_menu": false,
+ "char_lift": 46,
+ "back_motion": "flap",
+ "back_amp": 0.22,
+ "back_period": 1.0,
+ "records": true,
+ "back_jitter": 0.5,
+ "slime": {
+  "kinds": {
+   "말랑이": {
+    "tint": 0.45,
+    "size": 1.0,
+    "thick": 0.0,
+    "stiff": 0.0,
+    "reach": 2.8,
+    "vol": 0.32
+   },
+   "버터바": {
+    "shape": "bar",
+    "label": "butter",
+    "bar_w": 1.5,
+    "bar_h": 1.25,
+    "bar_edge": 6.0,
+    "tint": 0.52,
+    "shade": 0.0,
+    "size": 1.0,
+    "thick": 1.0,
+    "stiff": 0.6,
+    "reach": 2.0,
+    "vol": 1.0,
+    "pitch": 0.82
+   },
+   "치즈": {
+    "shape": "bar",
+    "label": "cheese",
+    "holes": 7,
+    "bar_w": 0.95,
+    "bar_h": 1.45,
+    "bar_edge": 4.0,
+    "color": "#f5e09a",
+    "size": 0.95,
+    "thick": 0.55,
+    "stiff": 0.3,
+    "vol": 1.0
+   },
+   "망고스틴": {
+    "label": "mangosteen",
+    "color": "#4a1a3f",
+    "size": 0.92,
+    "thick": 1.0,
+    "stiff": 0.55,
+    "reach": 1.9,
+    "vol": 1.15,
+    "pitch": 0.72
+   },
+   "푸딩": {
+    "label": "pudding",
+    "shape": "cup",
+    "cup_top": 0.66,
+    "bar_w": 1.06,
+    "bar_h": 1.3,
+    "bar_edge": 4.2,
+    "color": "#f6d79b",
+    "size": 0.98,
+    "thick": 0.25,
+    "stiff": 0.4,
+    "reach": 2.4,
+    "vol": 1.0,
+    "pitch": 0.95
+   }
   }
+ },
+ "back_hide_on_prop": false,
+ "lv_floor": {
+  "secs": 39600,
+  "until": "2026-08-24"
+ },
+ "defaults": {
+  "sound_pack": "aura pla"
+ },
+ "seat_head_bob": false,
+ "wgame": true,
+ "ctile": true,
+ "game_talk": [
+  "잘했어요. 한 칸씩 했네요.",
+  "꾸준한 게 제일 빨라요.",
+  "어제보다 한 줄 더 했어요.",
+  "손이 기억할 거예요.",
+  "차곡차곡 잘 지웠어요.",
+  "오늘도 한 판 마쳤어요.",
+  "조금씩, 매일."
+ ],
+ "game_talk_win": [
+  "전부 지웠어요! 정말 대단해요.",
+  "한 장도 안 남았어요.",
+  "이런 날도 있네요."
+ ],
+ "g2_talk": {
+  "start": [
+   "오늘도 한 칸씩.",
+   "천천히 시작해요.",
+   "한 판, 꾸준히 가요.",
+   "조금씩, 매일."
+  ],
+  "move_none": [
+   "그쪽은 안 밀려요.",
+   "괜찮아요, 다시 해요.",
+   "한 번 쉬어 가요.",
+   "실수도 한 칸이에요."
+  ],
+  "big": [
+   "한 칸 커졌네요.",
+   "차곡차곡 잘 쌓았어요.",
+   "그 수 좋았어요.",
+   "꾸준히 잘 하고 있어요."
+  ],
+  "combo": [
+   "한 번에 세 칸이요.",
+   "차곡차곡 세 번이나요.",
+   "쌓은 게 터졌네요.",
+   "꾸준함이 보여요."
+  ],
+  "top": [
+   "최고 기록이에요.",
+   "어제보다 한 줄 더 했어요.",
+   "여기까지 온 것도 대단해요.",
+   "손이 기억할 거예요."
+  ],
+  "tight": [
+   "자리가 얼마 안 남았어요.",
+   "한 칸씩 침착히요.",
+   "천천히 봐도 돼요.",
+   "급하면 무너져요."
+  ],
+  "idle": [
+   "천천히 생각해요.",
+   "쉬는 것도 하는 일이에요.",
+   "기다릴게요.",
+   "조금씩, 매일이면 돼요."
+  ],
+  "near": [
+   "1024까지 쌓았네요.",
+   "마지막 한 칸이에요.",
+   "여기까지 꾸준했어요.",
+   "조금만 더 하면 돼요."
+  ],
+  "win": [
+   "2048이에요! 해냈어요.",
+   "한 칸씩 쌓은 결과예요.",
+   "성실한 사람이 이겨요.",
+   "정말 잘하셨어요."
+  ],
+  "over": [
+   "여기까지 잘했어요.",
+   "안 되면 내일 또 하면 돼요.",
+   "오늘 몫은 다 했어요.",
+   "차곡차곡 잘 쌓았어요."
+  ]
+ },
+ "g2048": true,
+ "kkodle": true,
+ "prop_motion": {
+  "미쿠": {
+   "prop": {
+    "motion": "sway",
+    "amp": 2.4,
+    "period": 3.1,
+    "jitter": 0.18,
+    "pivot": [
+     0.5,
+     0.08
+    ],
+    "steps": 24,
+    "phase": 0.31
+   },
+   "prop_bit2": {
+    "motion": "sway",
+    "amp": 4.6,
+    "period": 4.3,
+    "jitter": 0.22,
+    "pivot": [
+     0.5,
+     0.06
+    ],
+    "steps": 28,
+    "phase": 0.0
+   },
+   "prop_bit4": {
+    "motion": "sway",
+    "amp": 15.0,
+    "period": 1.5,
+    "jitter": 0.1,
+    "pivot": [
+     0.16,
+     0.14
+    ],
+    "steps": 32,
+    "phase": 0.63
+   }
+  },
+  "블록슈불꽃": {
+   "prop": {
+    "motion": "flame",
+    "amp": 0.1,
+    "period": 0.78,
+    "jitter": 0.3,
+    "steps": 16,
+    "phase": 0.0
+   },
+   "prop_bit2": {
+    "motion": "flame",
+    "amp": 0.13,
+    "period": 0.62,
+    "jitter": 0.3,
+    "steps": 16,
+    "phase": 0.37
+   },
+   "prop_bit3": {
+    "motion": "flame",
+    "amp": 0.17,
+    "period": 0.5,
+    "jitter": 0.32,
+    "steps": 16,
+    "phase": 0.66
+   },
+   "prop_bit4": {
+    "motion": "flame",
+    "amp": 0.21,
+    "period": 0.42,
+    "jitter": 0.35,
+    "steps": 16,
+    "phase": 0.13
+   },
+   "prop_bit5": {
+    "motion": "pulse",
+    "amp": 0.18,
+    "period": 1.7,
+    "jitter": 0.25,
+    "steps": 14,
+    "phase": 0.5
+   }
+  },
+  "츠나불꽃": {
+   "prop": {
+    "motion": "flame",
+    "amp": 0.09,
+    "period": 0.8,
+    "jitter": 0.3,
+    "steps": 16,
+    "phase": 0.0
+   },
+   "prop_bit2": {
+    "motion": "flame",
+    "amp": 0.15,
+    "period": 0.6,
+    "jitter": 0.32,
+    "steps": 16,
+    "phase": 0.41
+   },
+   "prop_bit3": {
+    "motion": "flame",
+    "amp": 0.2,
+    "period": 0.46,
+    "jitter": 0.35,
+    "steps": 16,
+    "phase": 0.72
+   }
+  },
+  "덤보": {
+   "prop": {
+    "motion": "sway",
+    "amp": 29.5,
+    "period": 1.3,
+    "jitter": 0.12,
+    "steps": 24,
+    "phase": 0.9,
+    "pivot": [
+     0.46,
+     1.0
+    ]
+   }
+  },
+  "옹이": {
+   "prop_bit3": {
+    "motion": "sway",
+    "amp": 4.0,
+    "period": 1.8,
+    "jitter": 0.12,
+    "steps": 24,
+    "phase": 0.8,
+    "pivot": [
+     0.88,
+     0.11
+    ]
+   }
+  },
+  "곰돌이": {
+   "prop": {
+    "motion": "sway",
+    "amp": 24.0,
+    "period": 1.4,
+    "jitter": 0.12,
+    "steps": 24,
+    "phase": 0.6,
+    "pivot": [
+     0.26,
+     0.87
+    ]
+   },
+   "prop_bit3": {
+    "motion": "lick",
+    "amp": 0.45,
+    "period": 2.2,
+    "jitter": 0.25,
+    "steps": 24,
+    "phase": 0.8,
+    "squash": 0.18
+   },
+   "prop_bit6": {
+    "motion": "sway",
+    "amp": 1.5,
+    "period": 1.0,
+    "jitter": 0.12,
+    "steps": 24,
+    "phase": 0.95,
+    "pivot": [
+     0.87,
+     0.05
+    ]
+   }
+  }
+ },
+ "back_steps": 24,
+ "chips": true,
+ "prop_over_arms": true,
+ "prop_extra": {
+  "propx1": {
+   "pos": [
+    499,
+    -544
+   ],
+   "size": [
+    91,
+    169
+   ],
+   "label": "덤보",
+   "pname": "꼬리",
+   "gname": "덤보",
+   "over": 1,
+   "bits": [
+    "propx1_bit2",
+    "propx1_bit3",
+    "propx1_bit4"
+   ]
+  },
+  "propx1_bit2": {
+   "pos": [
+    303,
+    -435
+   ],
+   "size": [
+    472,
+    484
+   ],
+   "label": "덤보",
+   "pname": "몸통"
+  },
+  "propx1_bit3": {
+   "pos": [
+    284,
+    -437
+   ],
+   "size": [
+    495,
+    314
+   ],
+   "label": "덤보",
+   "pname": "머리"
+  },
+  "propx1_bit4": {
+   "pos": [
+    413,
+    -297
+   ],
+   "size": [
+    255,
+    105
+   ],
+   "label": "덤보",
+   "pname": "눈깜빡"
+  },
+  "propx2": {
+   "pos": [
+    643,
+    -588
+   ],
+   "size": [
+    161,
+    222
+   ],
+   "label": "곰돌이",
+   "pname": "꼬리",
+   "gname": "곰돌이",
+   "over": 1,
+   "bits": [
+    "propx2_bit2",
+    "propx2_bit3",
+    "propx2_bit4",
+    "propx2_bit5",
+    "propx2_bit6"
+   ]
+  },
+  "propx2_bit2": {
+   "pos": [
+    300,
+    -368
+   ],
+   "size": [
+    453,
+    350
+   ],
+   "label": "곰돌이",
+   "pname": "몸통"
+  },
+  "propx2_bit3": {
+   "pos": [
+    469,
+    -167
+   ],
+   "size": [
+    85,
+    78
+   ],
+   "label": "곰돌이",
+   "pname": "혓바닥"
+  },
+  "propx2_bit4": {
+   "pos": [
+    354,
+    -496
+   ],
+   "size": [
+    390,
+    346
+   ],
+   "label": "곰돌이",
+   "pname": "머리"
+  },
+  "propx2_bit5": {
+   "pos": [
+    405,
+    -365
+   ],
+   "size": [
+    224,
+    133
+   ],
+   "label": "곰돌이",
+   "pname": "눈깜빡"
+  },
+  "propx2_bit6": {
+   "pos": [
+    304,
+    -426
+   ],
+   "size": [
+    107,
+    179
+   ],
+   "label": "곰돌이",
+   "pname": "귀쫑긋"
+  },
+  "propx3": {
+   "pos": [
+    278,
+    -561
+   ],
+   "size": [
+    505,
+    405
+   ],
+   "label": "옹이",
+   "pname": "몸체",
+   "gname": "옹이",
+   "over": 1,
+   "bits": [
+    "propx3_bit2",
+    "propx3_bit3"
+   ]
+  },
+  "propx3_bit2": {
+   "pos": [
+    393,
+    -459
+   ],
+   "size": [
+    198,
+    100
+   ],
+   "label": "옹이",
+   "pname": "눈깜빡"
+  },
+  "propx3_bit3": {
+   "pos": [
+    391,
+    -293
+   ],
+   "size": [
+    379,
+    215
+   ],
+   "label": "옹이",
+   "pname": "꼬리"
+  }
+ },
+ "prop_tune": {
+  "덤보": [
+   -2.0,
+   453.3,
+   0.58
+  ],
+  "옹이": [
+   -1.0,
+   490.0,
+   0.68
+  ],
+  "곰돌이": {
+   "all": [
+    -2.0,
+    473.3,
+    0.55
+   ],
+   "bit3": [
+    0.0,
+    -9.0,
+    1.0
+   ]
+  }
+ },
+ "feature_hints": true,
+ "feature_hints_reset": 1
 }
