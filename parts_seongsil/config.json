@@ -663,6 +663,7 @@
    ]
   }
  },
+ "deadline": true,
  "feature_hints": true,
  "feature_hints_reset": 1
 }
